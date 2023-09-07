@@ -15,13 +15,8 @@
             "name": "AboutMe",
             "request": "launch",
             "mainClass": "AboutMe",
-            "projectName": "basic-java_12f532fc",
-            "args": [
-                "GIOVANE",
-                "GUIMARÃES",
-                "31",
-                "1.80"
-            ]
+            "projectName": "basic-java_12f532fc"
+
         },
         {
             "type": "java",
