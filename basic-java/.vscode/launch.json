@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SchoolResult",
+            "request": "launch",
+            "mainClass": "SchoolResult",
+            "projectName": "basic-java_12f532fc"
+        },
+        {
+            "type": "java",
+            "name": "ATM",
+            "request": "launch",
+            "mainClass": "ATM",
+            "projectName": "basic-java_12f532fc"
+        },
+        {
+            "type": "java",
+            "name": "CashFlow",
+            "request": "launch",
+            "mainClass": "CashFlow",
+            "projectName": "basic-java_12f532fc"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -16,7 +37,6 @@
             "request": "launch",
             "mainClass": "AboutMe",
             "projectName": "basic-java_12f532fc"
-
         },
         {
             "type": "java",
