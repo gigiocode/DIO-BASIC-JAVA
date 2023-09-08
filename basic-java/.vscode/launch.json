@@ -1,63 +1,71 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "SchoolResult",
-            "request": "launch",
-            "mainClass": "SchoolResult",
-            "projectName": "basic-java_12f532fc"
-        },
-        {
-            "type": "java",
-            "name": "ATM",
-            "request": "launch",
-            "mainClass": "ATM",
-            "projectName": "basic-java_12f532fc"
-        },
-        {
-            "type": "java",
-            "name": "CashFlow",
-            "request": "launch",
-            "mainClass": "CashFlow",
-            "projectName": "basic-java_12f532fc"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "AboutMe",
-            "request": "launch",
-            "mainClass": "AboutMe",
-            "projectName": "basic-java_12f532fc"
-        },
-        {
-            "type": "java",
-            "name": "MinhaClasse",
-            "request": "launch",
-            "mainClass": "MinhaClasse",
-            "projectName": "basic-java_12f532fc"
-        },
-        {
-            "type": "java",
-            "name": "User",
-            "request": "launch",
-            "mainClass": "User",
-            "projectName": "basic-java_12f532fc"
-        },
-        {
-            "type": "java",
-            "name": "VarTypes",
-            "request": "launch",
-            "mainClass": "VarTypes",
-            "projectName": "basic-java_12f532fc"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "type": "java",
+      "name": "SelectionProcess",
+      "request": "launch",
+      "mainClass": "SelectionProcess.SelectionProcess",
+      "projectName": "basic-java_12f532fc"
+    },
+    {
+      "type": "java",
+      "name": "SchoolResult",
+      "request": "launch",
+      "mainClass": "SchoolResult",
+      "projectName": "basic-java_12f532fc"
+    },
+    {
+      "type": "java",
+      "name": "ATM",
+      "request": "launch",
+      "mainClass": "ATM",
+      "projectName": "basic-java_12f532fc"
+    },
+    {
+      "type": "java",
+      "name": "CashFlow",
+      "request": "launch",
+      "mainClass": "CashFlow",
+      "projectName": "basic-java_12f532fc"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "AboutMe",
+      "projectName": "basic-java_12f532fc"
+    },
+    {
+      "type": "java",
+      "name": "MinhaClasse",
+      "request": "launch",
+      "mainClass": "MinhaClasse",
+      "projectName": "basic-java_12f532fc"
+    },
+    {
+      "type": "java",
+      "name": "User",
+      "request": "launch",
+      "mainClass": "User",
+      "projectName": "basic-java_12f532fc"
+    },
+    {
+      "type": "java",
+      "name": "VarTypes",
+      "request": "launch",
+      "mainClass": "VarTypes",
+      "projectName": "basic-java_12f532fc"
+    }
+  ]
 }
